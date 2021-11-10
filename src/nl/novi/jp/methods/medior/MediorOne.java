@@ -17,7 +17,7 @@ public class MediorOne {
     public static void main(String[] args) {
         int result = calculateSum(10, 22);
 
-        System.out.println("De som van 10 en 12 is: " + result);
+        System.out.println("De som van 10 en 22 is: " + result);
 
         int doubledResult = doubleNumber(result);
 
