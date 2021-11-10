@@ -18,6 +18,7 @@ public class MediorTwo {
         } else {
             return false;
         }
+        // age > 17 ? return true : return false;
     }
 
     public static void printUnderAgeWarning() {
